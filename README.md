@@ -69,5 +69,4 @@ MIT License
 
 ## Author
 
-Yonathan  
-Python Developer
+Yonathan,aka Witwizard
