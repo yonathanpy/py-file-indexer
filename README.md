@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:220022,100:440044&height=180&section=header&text=PY-FILE-INDEXER📁Indexer+Utility&fontSize=60&fontColor=ff00ff&desc=Witwizard&descSize=18&descColor=cccccc" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="256" height="256" alt="Py File Indexer Logo" />
 </p>
-
-# PY-FILE-INDEXER
-
-# PY-FILE-INDEXER
 
 Py File Indexer is a modular file indexing and search system implemented in Python.  
 The project provides a framework for recursively scanning file systems, extracting document content, and building a searchable index over file metadata and textual data.
