@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="256" height="256" alt="Py File Indexer Logo" />
+  <img src="https://img.icons8.com/ios-filled/500/000000/files.png" width="200" alt="PY-FILE-INDEXER Files Icon"/>
 </p>
+
+# PY‑FILE‑INDEXER
 
 Py File Indexer is a modular file indexing and search system implemented in Python.  
 The project provides a framework for recursively scanning file systems, extracting document content, and building a searchable index over file metadata and textual data.
