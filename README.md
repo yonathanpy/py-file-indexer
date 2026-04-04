@@ -239,13 +239,4 @@ Possible extensions include:
 
 ---
 
-# License
 
-MIT License
-
----
-
-# Author
-
-Yonathan  
-aka Witwizard
